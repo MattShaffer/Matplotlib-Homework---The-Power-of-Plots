@@ -1,0 +1,4 @@
+3 Observations from Pymaceutacals HW
+*Ramicane and Capomulin have the lowest Tumor Volumes
+*Ceftamin does not produce the best study compared to the rest, because the upper and lower quartiles are further apart.
+*Ramican seems to produce the most reliable results with the loswest standard deviation at 4.8
